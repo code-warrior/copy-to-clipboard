@@ -1,7 +1,7 @@
 # Copy to Clipboard Using JavaScript
 
-A simple JavaScript project to show how to copy content to the clipboard on a web 
-page.
+A simple project to show how to copy content to the clipboard in a web 
+page using JavaScript
 
 ![Shows the project before the copy routine.](img/before.png)
 ![Shows the project during the copy routine.](img/during.png)
