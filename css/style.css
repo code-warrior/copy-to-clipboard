@@ -1,0 +1,31 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 2px 24px;
+}
+
+input, a {
+   float: left;
+}
+
+input {
+   width: 270px;
+   padding: 6px 3px;
+   border: 1px solid #ddd;
+   margin: 24px 0;
+}
+
+input:nth-of-type(2) {
+   width: 400px;
+}
+
+input:nth-of-type(2), a {
+   clear: left;
+}
+
+a {
+   color: white;
+   background-color: #060;
+   border: 1px solid #ddd;
+   padding: 12px;
+   text-decoration: none;
+}
