@@ -1,4 +1,5 @@
 # Copy to Clipboard Using JavaScript
+(v1.0.0)
 
 A simple project to show how to copy content to the clipboard in a web page using JavaScript.
 
