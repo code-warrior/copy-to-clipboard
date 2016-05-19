@@ -33,3 +33,11 @@ a {
 div {
    clear: left;
 }
+
+#error {
+   background-color: yellow;
+   color: red;
+   padding: 24px;
+   margin: 24px 0 0;
+}
+
