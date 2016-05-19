@@ -71,14 +71,8 @@ function CopyToClipboard() {
 
         if (!errorsFound) {
             copyToClipboardTrigger.addEventListener('click', function (event) {
-
-                // Prevent the default behavior attached to the <a>nchor element.
                 event.preventDefault();
-
-                // Copy the entire contents of the input box whose ID is `content-to-copy`.
                 contentToCopy.select();
-
-                // Copy the content that was just selected.
                 document.execCommand('copy');
             });
         }
