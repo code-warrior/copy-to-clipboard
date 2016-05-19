@@ -14,7 +14,7 @@ function CopyToClipboard() {
         clipboardExampleContainer = document.getElementById('clipboard-example-container'),
         errorsFound = false;
 
-    errorMessageContainer .id = 'error';
+    errorMessageContainer.setAttribute('id', 'error');
 
     function checkCopyToClipboardTrigger() {
         if (null === copyToClipboardTrigger) {
