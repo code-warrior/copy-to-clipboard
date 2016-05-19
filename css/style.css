@@ -36,6 +36,7 @@ div {
 
 #error {
    background-color: yellow;
+   line-height: 1.7;
    padding: 24px;
    margin: 24px 0 0;
 }
