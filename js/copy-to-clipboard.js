@@ -1,4 +1,4 @@
-/*jslint browser: true, plusplus: true */
+/*jslint browser: true */
 /*global window, document */
 
 var copyToClipboardTrigger = document.getElementById('copy-to-clipboard-trigger');
